@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @dhavalvparekh (Dhaval Parekh)
+- 👀 I’m interested in Creation, Updation and Solution
+- 🌱 I’m currently in flutter
+- 💬 Ask me about flutter, design, database, pattern and etc.
+- 📫 How to reach me @: parekhdhaval1989@gmail.com
